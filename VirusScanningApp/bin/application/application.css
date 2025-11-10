@@ -1,0 +1,80 @@
+.background {
+    -fx-background-color: linear-gradient(to bottom right, #0b1c3a, #1c3052);
+}
+
+.title-text {
+    -fx-font-size: 20px;
+    -fx-font-family: "Segoe UI";
+    -fx-fill: #00FFFF;
+}
+
+.button-main {
+    -fx-font-size: 14px;
+    -fx-font-family: "Segoe UI";
+    -fx-text-fill: #ffffff;
+    -fx-background-color: #1976d2;
+    -fx-background-radius: 8;
+    -fx-pref-width: 120;
+    -fx-pref-height: 35;
+}
+
+.button-main:hover {
+    -fx-background-color: #2196f3;
+}
+
+.button-exit {
+    -fx-font-size: 14px;
+    -fx-font-family: "Segoe UI";
+    -fx-text-fill: #ffffff;
+    -fx-background-color: #d32f2f;
+    -fx-background-radius: 8;
+    -fx-pref-width: 120;
+    -fx-pref-height: 35;
+}
+
+.button-exit:hover {
+    -fx-background-color: #e53935;
+}
+.main-container{
+	-fx-background-color: #0b1e5b;
+}
+.title-label{
+	-fx-font-size: 35px;
+	-fx-text-fill: #00FFFF;
+	-fx-font-family: "Segoe UI";
+	
+}
+.status-label{
+	-fx-font-size: 20px;
+	-fx-text-fill: #00FFFF;
+	
+}
+.main-button{
+	-fx-background-color: #0b1e5b;
+	-fx-text-fill:white;
+	-fx-font-size: 14px;
+	-fx-background-radius: 20;
+	-fx-border-radius: 20;
+ 
+}
+.main-button:hover {
+	-fx-background-color: #1a237e;
+}
+#selectFolderButton{
+	-fx-background-color: #1976d2;
+}
+#startScanButton{
+	-fx-background-color: #1976d2;
+}
+#stopScanButton{
+	-fx-background-color: #1976d2;
+}
+#clearCacheButton{
+	-fx-background-color: #1976d2;
+}
+#quarantineButton{
+	-fx-background-color: #1976d2;
+}
+#exitButton{
+	-fx-background-color: #d32f2f;
+}

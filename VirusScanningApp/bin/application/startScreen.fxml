@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml" fx:controller="application.StartController"
+            prefHeight="400.0" prefWidth="600.0"
+            styleClass="background">
+
+    <children>
+        <Text text="VIRUS DETECTION SYSTEM" layoutX="200" layoutY="160" styleClass="title-text" />
+
+        <Button text="START APP" layoutX="250" layoutY="200"
+                onAction="#handleStartScan"
+                styleClass="button-main"/>
+
+        <Button text="EXIT APP" layoutX="250" layoutY="260"
+                onAction="#handleExit"
+                styleClass="button-exit"/>
+    </children>
+</AnchorPane>

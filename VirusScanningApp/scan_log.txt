@@ -1,0 +1,208 @@
+2025-11-05 12:30:42 | C:\Users\ADMIN\Documents\AD_Port | Clean | 
+2025-11-05 12:30:44 | C:\Users\ADMIN\Documents\desktop.ini | Clean | 
+2025-11-05 12:30:46 | C:\Users\ADMIN\Documents\qwiklabs-gcp-03-c078ee7abc17-473344c9182a.json | Clean | 
+2025-11-05 12:30:48 | C:\Users\ADMIN\Documents\qwiklabs-gcp-03-c078ee7abc17-8b963bc96ccc.json | Clean | 
+2025-11-05 12:30:51 | C:\Users\ADMIN\Documents\ss1.png | Clean | 
+2025-11-05 12:30:53 | C:\Users\ADMIN\Documents\sss.png | Clean | 
+
+=== Scan Summary (2025-11-06 02:07:01) ===
+Scanned: 0 / 0
+==========================
+2025-11-06 02:21:18 | AD_Port | Safe | Clean
+2025-11-06 02:21:20 | desktop.ini | Safe | Clean
+2025-11-06 02:21:22 | qwiklabs-gcp-03-c078ee7abc17-473344c9182a.json | Safe | Clean
+2025-11-06 02:21:24 | qwiklabs-gcp-03-c078ee7abc17-8b963bc96ccc.json | Safe | Clean
+2025-11-06 02:21:27 | ss1.png | Safe | Clean
+2025-11-06 02:21:29 | sss.png | Safe | Clean
+2025-11-06 02:24:26 | c and o 1.py | Safe | Clean
+2025-11-06 02:24:29 | c and o 2.py | Safe | Clean
+2025-11-06 02:24:31 | casthing.py | Safe | Clean
+2025-11-06 02:24:33 | catcher.py | Safe | Clean
+2025-11-06 02:24:35 | cd dictionary.py | Safe | Clean
+2025-11-06 02:24:38 | cd set.py | Safe | Clean
+2025-11-06 02:24:40 | cd tuple.py | Safe | Clean
+2025-11-06 02:24:42 | class and object.py | Safe | Clean
+2025-11-06 02:24:44 | collcation data.py | Safe | Clean
+2025-11-06 02:24:47 | def.py | Safe | Clean
+2025-11-06 02:24:49 | def1.py | Safe | Clean
+2025-11-06 02:24:51 | def2.py | Safe | Clean
+2025-11-06 02:24:53 | def3.py | Safe | Clean
+2025-11-06 02:24:55 | def4.py | Safe | Clean
+2025-11-06 02:24:58 | f2.py | Safe | Clean
+2025-11-06 02:25:00 | f3.py | Safe | Clean
+2025-11-06 02:25:02 | f4.py | Safe | Clean
+2025-11-06 02:25:04 | f5.py | Safe | Clean
+2025-11-06 02:25:06 | fl 1.py | Safe | Clean
+2025-11-06 02:25:09 | for loop.py | Safe | Clean
+2025-11-06 02:25:11 | function.py | Safe | Clean
+2025-11-06 02:25:13 | function1.py | Safe | Clean
+2025-11-06 02:25:15 | py 1.py | Safe | Clean
+2025-11-06 02:25:18 | while loop.py | Safe | Clean
+2025-11-06 02:25:20 | wl 1.py | Safe | Clean
+2025-11-06 02:25:22 | wl 3.py | Safe | Clean
+2025-11-06 02:25:24 | wl2.py | Safe | Clean
+2025-11-06 02:36:19 | clamav.crt | Safe | Clean
+2025-11-06 02:36:21 | clamav-types.h | Safe | Clean
+2025-11-06 02:36:23 | clamav.h | Safe | Clean
+2025-11-06 02:36:25 | clamav.reg | Safe | Clean
+2025-11-06 02:36:28 | clambc.exe | Safe | Clean
+2025-11-06 02:36:30 | clamd.conf | Safe | Clean
+2025-11-06 02:36:32 | clamd.conf.txt | Safe | Clean
+2025-11-06 02:36:35 | clamd.exe | Safe | Clean
+2025-11-06 02:36:37 | clamd.log | Safe | Clean
+2025-11-06 02:36:39 | clamdscan.exe | Safe | Clean
+2025-11-06 02:36:41 | clamdtop.exe | Safe | Clean
+2025-11-06 02:36:44 | clamscan.exe | Safe | Clean
+2025-11-06 02:36:46 | bzip2.txt | Safe | Clean
+2025-11-06 02:36:48 | clamav.txt | Safe | Clean
+2025-11-06 02:36:50 | curl.txt | Safe | Clean
+2025-11-06 02:36:52 | json-c.txt | Safe | Clean
+2025-11-06 02:36:55 | libxml2.txt | Safe | Clean
+2025-11-06 02:36:57 | openssl.txt | Safe | Clean
+2025-11-06 02:36:59 | pcre2.md | Safe | Clean
+2025-11-06 02:37:02 | PDCurses.md | Safe | Clean
+2025-11-06 02:37:04 | UnRAR.txt | Safe | Clean
+2025-11-06 02:37:06 | winpthreads.txt | Safe | Clean
+2025-11-06 02:37:08 | zlib-ng.md | Safe | Clean
+2025-11-06 02:37:11 | bytecode-339.cvd.sign | Safe | Clean
+2025-11-06 02:37:13 | bytecode.cvd | Safe | Clean
+2025-11-06 02:37:15 | daily-27811.cvd.sign | Safe | Clean
+2025-11-06 02:37:17 | daily.cvd | Safe | Clean
+2025-11-06 02:37:19 | freshclam.dat | Safe | Clean
+2025-11-06 02:37:22 | main-62.cvd.sign | Safe | Clean
+2025-11-06 02:37:24 | main.cvd | Safe | Clean
+2025-11-06 02:37:26 | freshclam.conf | Safe | Clean
+2025-11-06 02:37:28 | freshclam.exe | Safe | Clean
+2025-11-06 02:37:31 | libclamav.dll | Safe | Clean
+2025-11-06 02:37:33 | libclamav.lib | Safe | Clean
+2025-11-06 02:37:35 | libclamunrar.dll | Safe | Clean
+2025-11-06 02:37:37 | libclamunrar_iface.dll | Safe | Clean
+2025-11-06 02:37:40 | libfreshclam.dll | Safe | Clean
+2025-11-06 02:37:42 | README.md | Safe | Clean
+2025-11-06 02:37:44 | sigtool.exe | Safe | Clean
+2025-11-06 02:37:46 | content.010 | Safe | Clean
+2025-11-06 02:39:31 | BraveBrowserSetup-BRV010.exe | Safe | Clean
+2025-11-06 02:39:33 | Canva.lnk | Safe | Clean
+2025-11-06 02:39:35 | ccsetup624.exe | Safe | Clean
+2025-11-06 02:39:37 | desktop.ini | Safe | Clean
+2025-11-06 02:39:40 | Eclipse IDE for Java Developers - 2025-09.lnk | Safe | Clean
+2025-11-06 02:40:11 | c and o 1.py | Safe | Clean
+2025-11-06 02:40:13 | c and o 2.py | Safe | Clean
+2025-11-06 02:40:16 | casthing.py | Safe | Clean
+2025-11-06 02:40:18 | catcher.py | Safe | Clean
+2025-11-06 02:40:20 | cd dictionary.py | Safe | Clean
+2025-11-06 02:40:22 | cd set.py | Safe | Clean
+2025-11-06 02:40:24 | cd tuple.py | Safe | Clean
+2025-11-06 02:40:27 | class and object.py | Safe | Clean
+2025-11-06 02:40:29 | collcation data.py | Safe | Clean
+2025-11-06 02:40:31 | def.py | Safe | Clean
+2025-11-06 02:40:33 | def1.py | Safe | Clean
+2025-11-06 02:40:35 | def2.py | Safe | Clean
+2025-11-06 02:40:38 | def3.py | Safe | Clean
+2025-11-06 02:40:40 | def4.py | Safe | Clean
+2025-11-06 02:40:42 | f2.py | Safe | Clean
+2025-11-06 02:40:44 | f3.py | Safe | Clean
+2025-11-06 02:40:46 | f4.py | Safe | Clean
+2025-11-06 02:40:49 | f5.py | Safe | Clean
+2025-11-06 02:40:51 | fl 1.py | Safe | Clean
+2025-11-06 02:40:53 | for loop.py | Safe | Clean
+2025-11-06 02:40:55 | function.py | Safe | Clean
+2025-11-06 02:40:57 | function1.py | Safe | Clean
+2025-11-06 02:41:00 | py 1.py | Safe | Clean
+2025-11-06 02:41:02 | while loop.py | Safe | Clean
+2025-11-06 02:41:04 | wl 1.py | Safe | Clean
+2025-11-06 02:41:06 | wl 3.py | Safe | Clean
+2025-11-06 02:41:08 | wl2.py | Safe | Clean
+2025-11-06 08:59:24 | c and o 1.py | Safe | Clean
+2025-11-06 08:59:26 | c and o 2.py | Safe | Clean
+2025-11-06 08:59:28 | casthing.py | Safe | Clean
+2025-11-06 08:59:30 | catcher.py | Safe | Clean
+2025-11-06 08:59:33 | cd dictionary.py | Safe | Clean
+2025-11-06 08:59:35 | cd set.py | Safe | Clean
+2025-11-06 08:59:37 | cd tuple.py | Safe | Clean
+2025-11-06 08:59:40 | class and object.py | Safe | Clean
+2025-11-06 08:59:42 | collcation data.py | Safe | Clean
+2025-11-06 08:59:44 | def.py | Safe | Clean
+2025-11-06 08:59:46 | def1.py | Safe | Clean
+2025-11-06 08:59:49 | def2.py | Safe | Clean
+2025-11-06 08:59:51 | def3.py | Safe | Clean
+2025-11-06 08:59:53 | def4.py | Safe | Clean
+2025-11-06 08:59:55 | f2.py | Safe | Clean
+2025-11-06 08:59:58 | f3.py | Safe | Clean
+2025-11-06 09:00:00 | f4.py | Safe | Clean
+2025-11-06 09:00:02 | f5.py | Safe | Clean
+2025-11-06 09:00:04 | fl 1.py | Safe | Clean
+2025-11-06 09:00:07 | for loop.py | Safe | Clean
+2025-11-06 09:00:09 | function.py | Safe | Clean
+2025-11-06 09:00:11 | function1.py | Safe | Clean
+2025-11-06 09:00:13 | py 1.py | Safe | Clean
+2025-11-06 09:00:16 | while loop.py | Safe | Clean
+2025-11-06 09:00:18 | wl 1.py | Safe | Clean
+2025-11-06 09:00:20 | wl 3.py | Safe | Clean
+2025-11-06 09:00:23 | wl2.py | Safe | Clean
+2025-11-06 09:28:30 | eicar.com | Infected | \VirusTest\eicar.com: Eicar-Signature
+2025-11-06 09:29:59 | photo-1498887960847-2a5e46312788.avif | Safe | Clean
+2025-11-06 20:24:49 | c and o 1.py | Safe | Clean
+2025-11-06 20:24:49 | c and o 2.py | Safe | Clean
+2025-11-06 20:24:49 | casthing.py | Safe | Clean
+2025-11-06 20:24:49 | catcher.py | Safe | Clean
+2025-11-06 20:24:49 | cd dictionary.py | Safe | Clean
+2025-11-06 20:24:50 | cd set.py | Safe | Clean
+2025-11-06 20:24:50 | cd tuple.py | Safe | Clean
+2025-11-06 20:24:50 | class and object.py | Safe | Clean
+2025-11-06 20:24:50 | collcation data.py | Safe | Clean
+2025-11-06 20:24:50 | def.py | Safe | Clean
+2025-11-06 20:24:50 | def1.py | Safe | Clean
+2025-11-06 20:24:51 | def2.py | Safe | Clean
+2025-11-06 20:24:51 | def3.py | Safe | Clean
+2025-11-06 20:24:51 | def4.py | Safe | Clean
+2025-11-06 20:24:51 | f2.py | Safe | Clean
+2025-11-06 20:24:51 | f3.py | Safe | Clean
+2025-11-06 20:24:51 | f4.py | Safe | Clean
+2025-11-06 20:24:51 | f5.py | Safe | Clean
+2025-11-06 20:24:51 | fl 1.py | Safe | Clean
+2025-11-06 20:24:52 | for loop.py | Safe | Clean
+2025-11-06 20:24:52 | function.py | Safe | Clean
+2025-11-06 20:24:52 | function1.py | Safe | Clean
+2025-11-06 20:24:52 | py 1.py | Safe | Clean
+2025-11-06 20:24:52 | while loop.py | Safe | Clean
+2025-11-06 20:24:52 | wl 1.py | Safe | Clean
+2025-11-06 20:24:52 | wl 3.py | Safe | Clean
+2025-11-06 20:24:53 | wl2.py | Safe | Clean
+2025-11-06 20:26:05 | photo-1498887960847-2a5e46312788.avif | Safe | Clean
+2025-11-06 20:26:05 | v - Copy.com | Infected | \VirusTest\v - Copy.com: Eicar-Signature
+2025-11-06 20:26:05 | v.com | Safe | Clean
+2025-11-06 20:52:39 | AD_Port | Safe | Clean
+2025-11-06 20:52:40 | desktop.ini | Safe | Clean
+2025-11-06 20:52:40 | v.com | Safe | Clean
+2025-11-06 20:52:40 | qwiklabs-gcp-03-c078ee7abc17-473344c9182a.json | Safe | Clean
+2025-11-06 20:52:40 | qwiklabs-gcp-03-c078ee7abc17-8b963bc96ccc.json | Safe | Clean
+2025-11-06 20:52:40 | ss1.png | Safe | Clean
+2025-11-06 20:52:41 | sss.png | Safe | Clean
+2025-11-06 23:12:41 | AD_Port | Safe | Clean
+2025-11-06 23:12:43 | desktop.ini | Safe | Clean
+2025-11-06 23:12:45 | v.com | Safe | Clean
+2025-11-06 23:12:47 | qwiklabs-gcp-03-c078ee7abc17-473344c9182a.json | Safe | Clean
+2025-11-06 23:12:49 | qwiklabs-gcp-03-c078ee7abc17-8b963bc96ccc.json | Safe | Clean
+2025-11-06 23:12:51 | ss1.png | Safe | Clean
+2025-11-06 23:12:53 | sss.png | Safe | Clean
+2025-11-06 23:32:34 | AD_Port | Safe | Clean
+2025-11-06 23:32:36 | desktop.ini | Safe | Clean
+2025-11-06 23:32:38 | v.com | Safe | Clean
+2025-11-06 23:32:40 | qwiklabs-gcp-03-c078ee7abc17-473344c9182a.json | Safe | Clean
+2025-11-06 23:32:42 | qwiklabs-gcp-03-c078ee7abc17-8b963bc96ccc.json | Safe | Clean
+2025-11-06 23:32:44 | ss1.png | Safe | Clean
+2025-11-06 23:32:47 | sss.png | Safe | Clean
+2025-11-07 10:03:13 | photo-1498887960847-2a5e46312788.avif | Safe | Clean
+2025-11-07 10:03:13 | v - Copy - Copy.com | Infected | \VirusTest\v - Copy - Copy.com: Eicar-Signature
+2025-11-07 10:03:13 | v - Copy.com | Infected | \VirusTest\v - Copy.com: Eicar-Signature
+2025-11-07 10:03:13 | v.com | Safe | Clean
+2025-11-07 10:05:00 | photo-1498887960847-2a5e46312788.avif | Safe | Clean
+2025-11-07 10:05:00 | v.com | Safe | Clean
+2025-11-07 10:16:28 | AD_Port | Safe | Clean
+2025-11-07 10:16:28 | desktop.ini | Safe | Clean
+2025-11-07 10:16:28 | v.com | Safe | Clean
+2025-11-07 10:16:28 | qwiklabs-gcp-03-c078ee7abc17-473344c9182a.json | Safe | Clean
+2025-11-07 10:16:29 | qwiklabs-gcp-03-c078ee7abc17-8b963bc96ccc.json | Safe | Clean
+2025-11-07 10:16:29 | ss1.png | Safe | Clean
+2025-11-07 10:16:29 | sss.png | Safe | Clean

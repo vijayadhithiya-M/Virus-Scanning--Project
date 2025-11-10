@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.geometry.Insets?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/21"
+            xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="application.ScannerController"
+            prefWidth="900" prefHeight="600"
+            styleClass="root-pane">
+
+    <children>
+
+        <VBox alignment="CENTER" spacing="15" prefWidth="900" prefHeight="600" AnchorPane.topAnchor="0" AnchorPane.bottomAnchor="0"
+              AnchorPane.leftAnchor="0" AnchorPane.rightAnchor="0" styleClass="main-container">
+
+            <Label text="Virus Detection System" styleClass="title-label"/>
+
+            <HBox spacing="10" alignment="CENTER">
+                <Button fx:id="selectFolderButton" text="Select Folder" onAction="#handleSelectFolder" styleClass="main-button"/>
+                <Button fx:id="startScanButton" text="Start Scan" onAction="#handleStartScan" styleClass="main-button"/>
+                <Button fx:id="stopScanButton" text="Stop Scan" onAction="#handleStopScan" styleClass="main-button"/>
+                <Button fx:id="clearCacheButton" text="Clear Quarantine" onAction="#handleClearCache" styleClass="main-button"/>
+                <Button fx:id="quarantineButton" text="Quarantine" onAction="#handleQuarantine" styleClass="main-button"/>
+                <Button fx:id="exitButton" text="Exit" onAction="#handleExit" styleClass="main-button"/>
+            </HBox>
+
+            <ProgressBar fx:id="progressBar" prefWidth="700" progress="0" styleClass="progress-bar"/>
+
+            <Label fx:id="statusLabel" text="Ready" styleClass="status-label"/>
+
+            <TableView fx:id="tableView" prefHeight="350" prefWidth="800">
+                <columns>
+                    <TableColumn fx:id="fileNameColumn" text="File Name" prefWidth="300"/>
+                    <TableColumn fx:id="statusColumn" text="Status" prefWidth="200"/>
+                    <TableColumn fx:id="virusNameColumn" text="Virus Name" prefWidth="300"/>
+                </columns>
+            </TableView>
+
+        </VBox>
+    </children>
+</AnchorPane>
